@@ -1,0 +1,13 @@
+target/
+*.log
+*.tmp
+*.class
+
+.idea/
+*.iml
+
+.DS_Store
+Thumbs.db
+
+logs/
+*.pid
